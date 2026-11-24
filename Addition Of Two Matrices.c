@@ -1,4 +1,4 @@
-// C Pragram To Fibd The Sum Of Two Matrix
+// C Pragram To Find The Sum Of Two Matrix
 
 #include <stdio.h>
 int main()
