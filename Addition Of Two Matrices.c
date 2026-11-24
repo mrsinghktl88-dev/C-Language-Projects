@@ -1,4 +1,4 @@
-// C Pragram To Fibd The Sum Of Two Matrix
+// C Program To Find The Sum Of Two Matrix
 //3x3 Matrix Addition Program:
 //a[3][3], b[3][3] -> Do 3x3 matrices (user se input liye gaye elements)
 // c[3][3]          -> Result matrix jisme a aur b ka sum store hota hai
@@ -21,7 +21,7 @@ for(i=0; i<3; i++)
     }
 }
 
-printf("\nEnter The Value Of Eecond Matrix\n");
+printf("\nEnter The Value Of Second Matrix\n");
 
 for(i=0; i<3; i++)
 {
